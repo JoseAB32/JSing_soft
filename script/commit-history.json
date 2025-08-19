@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "JoseAB32",
+    "commit": {
+      "date": "2025-08-19T04:08:51.000Z",
+      "message": "Multiplicacion Funciona",
+      "url": "https://github.com/JoseAB32/JSing_soft/commit/HEAD"
+    },
+    "stats": {
+      "total": 18,
+      "additions": 17,
+      "deletions": 1,
+      "date": "2025-08-19"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
